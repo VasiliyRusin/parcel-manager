@@ -1,0 +1,29 @@
+{
+    "parcels": [
+        {
+            "id": 1,
+            "path": 310,
+            "worldwide": true
+        },
+        {
+            "id": 2,
+            "path": 1125,
+            "worldwide": true
+        },
+        {
+            "id": 3,
+            "path": 652,
+            "worldwide": true
+        },
+        {
+            "id": 4,
+            "path": 425,
+            "worldwide": false
+        },
+        {
+            "id": 5,
+            "path": 85,
+            "worldwide": true
+        }
+    ]
+}
